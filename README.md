@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BOTaaron
-- 👀 I’m interested in programming, cooking, making my own wine/beer, gaming, and learning everything I can.
+- 👀 I’m interested in programming, cooking, electronics, gaming, and building potentially useful but ultimately useless devices.
 - 🌱 I’m currently learning ... A Bachelor's degree in Computer Science in Leeds, UK, involving Java, Python, and more.
-- 💞️ I’m working on ... Odin Project! I am learning web development as a hobby using Odin Project as a guide!
+- 💞️ I’m working on ... building a plane! I am using a Raspberry Pi to turn an RC plane into a drone with autonomous flight.
 - 📫 How to reach me ... I use Discord a lot these days as we use it for my university. To contact, fire me a message on
 BOT Aaron#8333 if you like.
 
